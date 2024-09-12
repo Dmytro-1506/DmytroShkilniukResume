@@ -13,12 +13,13 @@ body {
 }
 
 .header {
-  background-color: #ffffff;
-  color: #000000;
+  background-color: #1e2939;
+  color: #ffffff;
   height: 80px;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  border-bottom: 4px solid #fb6d3a;
 }
 
 /* main styles  */
@@ -34,7 +35,7 @@ body {
   width: 560px;
   background-color: #ffffff;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-  padding: 90px 60px;
+  padding: 60px 50px;
 }
 
 /* about stile  */
@@ -53,13 +54,13 @@ body {
 .about-name {
   font-style: normal;
   font-weight: 700;
-  font-size: 45px;
+  font-size: 38px;
   line-height: 55px;
   margin-left: 30px;
   /* color: #000000; */
 }
 
-.about-discription {
+.discription {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -87,22 +88,33 @@ body {
 .project,
 .project-link {
   font-style: normal;
-  font-weight: 400;
+  font-weight: 700;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
+  color: #000000;
+}
+
+.orange-point {
+  display: inline-block;
+  border: 4px solid #fb6d3a;
+  border-radius: 4px;
+  margin-left: 10px;
 }
 
 .project-link {
   margin-left: 10px;
 }
 
-.project-bracket {
+.project-bracket,
+.used-technologies {
   font-style: normal;
-  font-weight: 700;
+  font-weight: 600;
   font-size: 14px;
   line-height: 24px;
-  color: #000000;
+  color: #595959;
+}
+
+.used-technologies {
 }
 
 /* work stile  */
@@ -203,7 +215,7 @@ body {
 .contacts,
 .tech-skills,
 .soft-skills {
-  margin-left: 40px;
+  margin-left: 30px;
   margin-bottom: 50px;
 }
 
