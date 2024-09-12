@@ -1,7 +1,5 @@
-/** @format */
-
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   background-color: #e5e5e5;
 }
 
@@ -219,7 +217,7 @@ body {
 }
 
 .contact-type {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
@@ -230,7 +228,7 @@ body {
 }
 
 .contact-link {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -241,7 +239,7 @@ body {
 
 .tech-skills-list,
 .soft-skills-list {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -253,7 +251,7 @@ body {
 
 .tech-skills-item,
 .soft-skills-item {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
@@ -263,7 +261,7 @@ body {
 
 .tech-skills-text,
 .soft-skills-text {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
